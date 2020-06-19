@@ -1,0 +1,25 @@
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.exe.config
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.exe
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.pdb
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.xml
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.vbprojResolveAssemblyReference.cache
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_laporan.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_login.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_menu.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_pengambilan.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_penitipan.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_user.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Resources.resources
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.vbproj.GenerateResource.Cache
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.exe
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.xml
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.pdb
+D:\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan_Barang.Form_laporan_pengambilan.resources
+C:\Users\Public\Documents\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.exe.config
+C:\Users\Public\Documents\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.exe
+C:\Users\Public\Documents\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.xml
+C:\Users\Public\Documents\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.pdb
+D:\PKP-1 IPI LEPPINDO\laporan akhir\Penitipan Barang\Penitipan Barang\bin\Debug\Penitipan Barang.exe.config
+D:\PKP-1 IPI LEPPINDO\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.exe
+D:\PKP-1 IPI LEPPINDO\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.xml
+D:\PKP-1 IPI LEPPINDO\laporan akhir\Penitipan Barang\Penitipan Barang\obj\Debug\Penitipan Barang.pdb
